@@ -1,5 +1,17 @@
 # Clutch Division — Notes de version
 
+## V5.0 · LR Manager — étapes 2 et 3
+
+- **Moteur de match 3v3** : games de 5 minutes avec prolongation en but en or, séries en BO3, BO5 et BO7. Le résultat dépend des statistiques des titulaires, de la forme, de la fatigue, de la cohésion, du coach et d'une part d'aléa : les exploits restent rares mais possibles.
+- **Matchs jouables** : choisis ton plan de jeu avant chaque game (équilibré, offensif, défensif, contre-attaque), suis les buts et les passes décisives, ou simule la série.
+- **Open Qualifiers d'Europe au format complet** : double élimination (Top 256, BO3 puis BO5 à partir du Top 192), Swiss Top 32 (2 groupes de 16, BO5, 3 victoires ou 3 défaites), GSL Top 16 (2 groupes de 8, upper/lower, BO5), Top 8 en double élimination (BO7).
+- **Opens 2, 3, 5 et 6** : 8 équipes directement qualifiées pour le Top 32 grâce au classement, 24 places en double élimination.
+- **Points et titres** : barème provisoire (en attente du barème officiel), le vainqueur d'un Open devient champion d'Europe.
+- **Onglet Compétitions** avec les quatre phases de chaque Open.
+
+Kick-Off LAN, Majors, LCQ et Worlds arrivent à l'étape 4.
+
+
 ## V5.0 · Multi-jeux — étape 1 (socle LR Manager)
 
 - **Nouvelle partie** : choisis entre **VL Manager** (FPS tactique 5v5, le jeu actuel) et **LR Manager** (football automobile 3v3).
