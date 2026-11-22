@@ -2,7 +2,7 @@
 
 Jeu de management esport sur un FPS tactique 5v5, entièrement dans le navigateur (HTML, CSS et JavaScript, sans serveur ni installation).
 
-**Version 4.9** : finitions du rachat d'équipe et des académies (voir `PATCHNOTES.md`), sur la base de la V4.5 : Massive Update 4.0 (organisations multi-sections, carrière du manager, direction et CEO, réunions de crise, bilans de saison, délégation, infrastructures, ambitions des joueurs, mobilité Game Changers, scrims jouables), plus l'audit qualité de 100 tests et ses 24 corrections.
+**Version 5.0** : choix entre VL Manager et LR Manager (socle du mode football automobile 3v3, voir `PATCHNOTES.md`). Base VL Manager : finitions du rachat d'équipe et des académies (voir `PATCHNOTES.md`), sur la base de la V4.5 : Massive Update 4.0 (organisations multi-sections, carrière du manager, direction et CEO, réunions de crise, bilans de saison, délégation, infrastructures, ambitions des joueurs, mobilité Game Changers, scrims jouables), plus l'audit qualité de 100 tests et ses 24 corrections.
 
 ## Jouer
 
