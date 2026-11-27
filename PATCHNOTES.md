@@ -1,5 +1,13 @@
 # Clutch Division — Notes de version
 
+## V5.1.6 · LR Manager — logos, God Mode complet, programme partenaire
+
+Le mode VL Manager n'est pas modifié.
+
+- **Logo par défaut** pour tous les clubs LR sans logo (remplaçable dans Paramètres), et bouton « Changer le logo » sur la fiche de chaque club. Le logo par défaut n'alourdit pas la sauvegarde.
+- **God Mode complet** comme dans VL : club (logo, nom, sigle, couleur, statut, région, budget, notoriété, cohésion, infrastructures, coach, titres, plan de jeu), joueurs et contrats (toutes les stats, âge, moral, fatigue, forme, contrat, salaire, clause, rôle promis, déplacement, création, retraite), staff, monde et réseau (réputation, confiance, abonnés, polémique, mercato forcé…).
+- **Programme partenaire tous les 2 ans** : candidatures ouvertes à tous les clubs, classement par région sur les points RLCS, les titres, la stabilité financière et la notoriété des deux dernières saisons. Les partenaires peuvent perdre leur place, les clubs pro ou semi-pro peuvent la prendre. La notoriété évolue maintenant chaque saison avec les résultats.
+
 ## V5.1.5 · LR Manager — gestion complète (réseau, contrats, entraînement, God Mode)
 
 Le mode VL Manager n'est pas modifié.
